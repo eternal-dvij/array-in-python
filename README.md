@@ -8,5 +8,5 @@ if len(list(a))<i:
     print("input is lesser than the size given")
 elif len(list(a))>i:
     print("greater input!")
-    
+
 print("\nList is - ", a)
